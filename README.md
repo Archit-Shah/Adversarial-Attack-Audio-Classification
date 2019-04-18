@@ -1,4 +1,4 @@
-# CS848---PyTorch
+# CS698--Harnessing Adversarial Attack for Audio Classification
 
 ## Instructions for version control of large files
 Since we need to deal with large files, we use `git-lfs` for their version control. Commands to use them are simple:
